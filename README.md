@@ -19,8 +19,7 @@
      git clone [https://github.com/skamzyy-01/niri-dotfiles.git](https://github.com/skamzyy-01/niri-dotfiles.git) ~/niri-dotfiles
 
 2. Скопируй файлы конфигурации:
-     mkdir -p ~/.config/niri ~/.config/noctalia ~/.config/kitty
-     cp ~/niri-dotfiles/niri/config.kdl ~/.config/niri/config.kdl
-     cp -r ~/niri-dotfiles/noctalia/* ~/.config/noctalia/
-     cp ~/niri-dotfiles/kitty/kitty.conf ~/.config/kitty/kitty.conf
-
+mkdir -p ~/.config/niri ~/.config/noctalia ~/.config/kitty
+cp ~/niri-dotfiles/niri/config.kdl ~/.config/niri/config.kdl
+cp -r ~/niri-dotfiles/noctalia/* ~/.config/noctalia/
+cp ~/niri-dotfiles/kitty/kitty.conf ~/.config/kitty/kitty.conf
