@@ -24,7 +24,3 @@
      cp -r ~/niri-dotfiles/noctalia/* ~/.config/noctalia/
      cp ~/niri-dotfiles/kitty/kitty.conf ~/.config/kitty/kitty.conf
 
-3. Чтобы все сохранилось:
-     
-     1. В 'nano' нажми **"Ctrl + O"**, потом **"Enter"** (сохранить) 
-     2. Теперь **"Ctrl + X"** (выйти)
